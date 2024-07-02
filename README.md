@@ -1,1 +1,1 @@
-This repository contains all of my projects!
+These projects were for learning purposes ONLY. 
